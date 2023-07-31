@@ -1,17 +1,17 @@
 # Recommender-systems-algorithms
-In this repository, I have shared notebook which contains recommender systems algorithms like apriori, collaborative filtering and SVD using surprise library of python.
+In this repository, I have shared a notebook containing recommender systems algorithms like apriori, collaborative filtering and SVD using the surprise python library.
 
 ## Overview 
 
-Marketing is about connecting the best products or services to the right customers. In today's digital world, personalizatino is essential for meeting customer's needs more effectively, thereby incresing customer satisfaction and the likelihood of repeat purchases.
+Marketing is about connecting the best products or services to the right customers. In today's digital world, personalization is essential for meeting customers' needs more effectively, thereby increasing customer satisfaction and the likelihood of repeat purchases.
 
-Recommeder systems are set of algorithms which recommend most relevant items to users based on their preferences predicted using the algorithms. it acts on behavioural data, such as customer's previous purchase, ratings or reviews to predict their likelihood of buying a new product or service.
+Recommender systems are algorithms that recommend the most relevant items to users based on their preferences predicted using the algorithms. it acts on behavioral data, such as customer's previous purchases, ratings, or reviews to predict their likelihood of buying a new product or service.
 
-For example, Amazon's 'Customers who buy this item also bought', Netflix's 'Shows and movies you may want to watch' are examples of recommendation systems
+For example, Amazon's "Customers who bought this item also bought, Netflix Shows and movies you may want to watch" are examples of recommendation systems
 
 ## Scope of this repo:
 
-### 1. Assiciation rules mining (Market basket analysis)
+### 1. Association rules mining (Market basket analysis)
 
 - Metrics for association rule mining
  1) Support
